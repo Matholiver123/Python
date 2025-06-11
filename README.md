@@ -1,4 +1,4 @@
-# 💻 Python
+# 🐍  Python
 
 Este repositório contém meus exercícios de css feitos durante meus estudos.
 
