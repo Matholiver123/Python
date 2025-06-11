@@ -1,6 +1,6 @@
 # 🐍  Python
 
-Este repositório contém meus exercícios de css feitos durante meus estudos.
+Este repositório contém meus exercícios de Python feitos durante meus estudos.
 
 ## 📚 Lista de exercícios
 
