@@ -6,14 +6,9 @@ Este repositório contém meus exercícios de css feitos durante meus estudos.
 
 | Arquivo     | Descrição                         |
 |-------------|-----------------------------------|
-| `Biografia.py`    | Biografia!        |
-| `Curriculo.py`    | Curriculo!        |
-| `Galeria.py`    | Galeria!        |
-| `Horario.py`    | Horário!        |
-| `Links.py`    | Links!        |
-| `Mapa.py`    | Mapa!        |
-| `Noticias.py`    | Noticias!        |
-| `Padaria.py`    | Padaria!        |
-| `Restaurante.py`    | Restaurante!             |
-| `Titulos.py`    | Titulos!        |
+| `Ola.py`    | Olá Mundo!|
+| `saudacao.py`    | Saudação Simples!|
+| `Calculadora.py`    | Calculadora Simples!|
+| `Conversor-De_temperatura.py`    | Conversor De Temperatura!        |
+| `informacao.py`    | Minhas Informações!|
 | ...         | ...                               |
